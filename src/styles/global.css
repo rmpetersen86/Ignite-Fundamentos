@@ -1,0 +1,19 @@
+export const theme = {
+    colors: {
+        dark: '#270672',
+        mediumDark: '#462B83',
+        background: '#4212af',
+        mediumLight: '#7247d7',
+        light: '#8D6DD7',
+        white: '#FFF',
+        highlight: '#AAA',
+        gradation: '#555'
+    },
+
+    /* fonts: {
+        title700: 'Roboto_700Bold',
+        title500: 'Roboto_500Medium',
+        text400: 'Varela_400Regular',
+        text300: 'Roboto_300Light'
+    } */
+}
