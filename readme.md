@@ -1,6 +1,6 @@
 #Ignite Fundamentos
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+  <img alt="R.M.PTERSEN" title="#R.M.PETERSEN" src="./assets/banner_petersen.png" />
 </h1>
 
 <h1 align="center">Bootcamp Ignite - Fundamentos</h1>
@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://www.linkedin.com/in/rafael-petersen-ab827a14a/">
- <img style="border-radius: 50%;" src=" https://github.com/rmptersen86.png" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/rmpetersen86.png?size=100" width="100px;" alt=""/>
  <br />
  <sub><b>Rafael M. Petersen</b></sub></a> <!-- <a href="https://www.linkedin.com/in/rafael-petersen-ab827a14a/" title="RMPetersen"></a> -->
 
