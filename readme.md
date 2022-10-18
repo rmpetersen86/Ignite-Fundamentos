@@ -1,6 +1,6 @@
 #Ignite Fundamentos
 <h1 align="center">
-  <img alt="R.M.PTERSEN" title="#R.M.PETERSEN" src="./assets/banner_petersen.png" />
+  <img alt="R.M.PTERSEN" title="#R.M.PETERSEN" src="./.assets/banner_petersen.png" />
 </h1>
 
 <h1 align="center">Bootcamp Ignite - Fundamentos</h1>
